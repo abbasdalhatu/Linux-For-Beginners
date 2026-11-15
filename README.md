@@ -4,11 +4,13 @@
 
 **Learn. Practise. Understand. Secure.**
 
-Welcome to **Linux for Ethical Hackers**, a structured, practical Linux learning program designed to guide learners from beginner-level Linux concepts to advanced Linux administration and cybersecurity fundamentals.
+**Linux for Ethical Hackers** is a free, beginner-friendly practical Linux course designed for students, aspiring cybersecurity professionals, and anyone who wants to learn Linux from the ground up.
 
-This repository provides organized learning modules, practical laboratory activities, exercises, technical references, and hands-on challenges.
+This complete Linux course for cybersecurity and ethical hacking covers Linux fundamentals, essential Linux commands, filesystem management, users and permissions, networking, Bash scripting, system administration, Linux security, and penetration-testing fundamentals.
 
-Whether you are a complete beginner, computer science student, IT professional, or aspiring cybersecurity specialist, this course provides a learning path to help you develop practical Linux skills.
+Through 17 structured learning modules, 15 practical lab sections, hands-on exercises, and technical resources, learners can build practical Linux skills and develop a strong foundation for cybersecurity.
+
+Whether you are searching for a Linux course for beginners, practical Linux tutorials, or Linux training for ethical hacking, this repository provides a structured learning path to help you get started.
 
 ---
 
