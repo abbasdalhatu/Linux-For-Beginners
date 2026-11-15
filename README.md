@@ -1,23 +1,32 @@
-
 # 🐧 LINUX FOR ETHICAL HACKERS
 
 ### A Complete Practical Linux Course for Cybersecurity and Ethical Hacking
 
 **Learn. Practise. Understand. Secure.**
 
-Welcome to **Linux for Ethical Hackers**, an educational Linux course designed to take learners from fundamental Linux concepts to practical system administration, networking, and cybersecurity skills.
+Welcome to **Linux for Ethical Hackers**, a structured, practical Linux learning program designed to guide learners from beginner-level Linux concepts to advanced Linux administration and cybersecurity fundamentals.
 
-Whether you are completely new to Linux, studying computer science, or developing your cybersecurity skills, this course provides structured learning materials, practical exercises, and technical references to support your journey.
+This repository provides organized learning modules, practical laboratory activities, exercises, technical references, and hands-on challenges.
+
+Whether you are a complete beginner, computer science student, IT professional, or aspiring cybersecurity specialist, this course provides a learning path to help you develop practical Linux skills.
 
 ---
 
 ## 📖 About This Course
 
-Linux for Ethical Hackers is a practical learning program focused on teaching Linux and its application in cybersecurity.
+Linux is one of the most important operating systems in modern computing. It powers servers, cloud infrastructure, networking devices, development environments, and many cybersecurity tools.
 
-The course combines theoretical explanations, command-line demonstrations, technical references, and hands-on exercises.
+This course teaches Linux from the ground up, with particular attention to its applications in:
 
-Its goal is to help learners understand how Linux works, administer Linux systems, troubleshoot problems, and develop the foundational skills required for ethical hacking and cybersecurity.
+- Cybersecurity and ethical hacking.
+- Linux system administration.
+- Computer networking.
+- Bash scripting and automation.
+- Network security.
+- Penetration-testing fundamentals.
+- System troubleshooting and security.
+
+The course combines theoretical explanations with practical demonstrations and laboratory exercises.
 
 ## 🎯 Learning Objectives
 
@@ -26,37 +35,81 @@ By completing this course, learners should be able to:
 - Understand Linux operating systems and architecture.
 - Navigate and manage the Linux filesystem.
 - Use essential Linux commands confidently.
-- Manage users, groups, and permissions.
-- Understand processes and system services.
-- Configure and troubleshoot Linux networking.
+- Understand the Linux kernel and shell.
+- Manage files, directories, users, and permissions.
+- Monitor processes and system services.
+- Install and manage Linux packages.
 - Understand IP addressing, ports, and protocols.
-- Write Bash scripts and automate tasks.
-- Perform basic Linux system administration.
+- Configure and troubleshoot Linux networking.
+- Write Bash scripts and automate administrative tasks.
+- Perform Linux system administration.
 - Understand Linux security and hardening.
-- Learn firewall and IDS/IPS fundamentals.
-- Understand ethical hacking and authorized security testing.
+- Understand firewalls and intrusion detection systems.
+- Perform authorized network reconnaissance and vulnerability assessments.
+- Understand penetration-testing methodologies.
+- Apply Linux knowledge to practical cybersecurity laboratories.
 
-## 📚 Course Materials
+---
 
-The course is organized into two main learning sections.
+## 📚 Complete Course Curriculum
 
-### 1. Resources
+The course contains 17 structured learning modules.
 
-The Resources folder contains technical notes, command references, explanations, and study materials.
-
-| Category | Description |
+| Module | Topic |
 |---|---|
-| Linux Commands | Essential commands, permissions, filesystems, and processes |
-| Networking | IP addressing, ports, protocols, firewalls, and troubleshooting |
-| Cybersecurity | Security fundamentals, attacks, reconnaissance, and ethical hacking |
-| Bash Scripting | Scripting fundamentals, automation, and administration |
-| Tools and References | Troubleshooting and Windows CMD references |
+| 01 | Linux Fundamentals |
+| 02 | Kali Linux Setup |
+| 03 | Linux Filesystem |
+| 04 | Linux Kernel and Shell |
+| 05 | Linux Commands |
+| 06 | File and Directory Management |
+| 07 | Users and Permissions |
+| 08 | Process Management |
+| 09 | Package Management |
+| 10 | Linux Networking |
+| 11 | Bash Scripting |
+| 12 | System Administration |
+| 13 | Linux Security |
+| 14 | Firewalls and IDS/IPS |
+| 15 | Network Security |
+| 16 | Penetration Testing |
+| 17 | Advanced Linux |
 
-**[Explore the Resources](Resources/README.md)**
+Each module has its own dedicated directory in the repository.
 
-### 2. Practical Exercises
+---
 
-The Exercises folder contains activities and challenges designed to help learners apply what they study.
+## 🧪 Practical Laboratory Sessions
+
+Practical learning is an essential part of this course.
+
+The Practical-Labs directory contains 15 laboratory sections.
+
+| Lab | Topic |
+|---|---|
+| 01 | Linux Command Line |
+| 02 | Filesystem and Permissions |
+| 03 | Bash Scripting |
+| 04 | System Administration |
+| 05 | Networking Diagnostics |
+| 06 | Linux Security |
+| 07 | Firewalls |
+| 08 | Log Analysis |
+| 09 | Wireshark |
+| 10 | Network Enumeration |
+| 11 | Vulnerability Assessment |
+| 12 | Web Security |
+| 13 | Metasploitable Labs |
+| 14 | Digital Forensics |
+| 15 | Capstone Project |
+
+**Laboratory safety:** Perform security testing only in isolated environments or on systems for which you have explicit authorization.
+
+---
+
+## 📝 Practical Exercises
+
+The Exercises directory provides additional activities to reinforce the concepts covered in the course.
 
 | Category | Difficulty |
 |---|---|
@@ -66,131 +119,223 @@ The Exercises folder contains activities and challenges designed to help learner
 | Bash Scripting | Beginner to Advanced |
 | System Administration | Beginner to Advanced |
 
-**[Explore the Practical Exercises](Exercises/README.md)**
+**[Explore All Exercises](Exercises/README.md)**
+
+---
+
+## 📖 Learning Resources
+
+The Resources directory contains reference materials, technical notes, command explanations, and study guides.
+
+It is divided into five categories:
+
+1. **Linux Commands** — Essential commands, permissions, processes, filesystems, users, and services.
+2. **Networking** — Networking commands, IP addressing, ports, protocols, firewalls, and troubleshooting.
+3. **Cybersecurity** — Security fundamentals, common attacks, ethical hacking, reconnaissance, and security tools.
+4. **Bash Scripting** — Scripting fundamentals, file automation, and system administration.
+5. **Tools and References** — Linux troubleshooting and Windows CMD reference materials.
+
+**[Explore All Learning Resources](Resources/README.md)**
 
 ---
 
 ## 🗺️ Recommended Learning Roadmap
 
-Follow this learning sequence if you are starting from zero.
+For learners starting from zero, follow this sequence:
 
-| Stage | Learning Area | Goal |
-|---|---|---|
-| 01 | Linux Basics | Understand Linux and the terminal |
-| 02 | Linux Commands | Work confidently with the command line |
-| 03 | Filesystems and Permissions | Manage files, users, and access |
-| 04 | Networking | Understand network fundamentals |
-| 05 | Bash Scripting | Automate repetitive tasks |
-| 06 | System Administration | Manage and troubleshoot Linux |
-| 07 | Cybersecurity | Understand threats and defensive security |
-| 08 | Ethical Hacking | Learn authorized security-testing fundamentals |
+**Stage 1 — Linux Foundations**
+- Linux Fundamentals
+- Kali Linux Setup
+- Linux Filesystem
+- Linux Kernel and Shell
+- Linux Commands
 
-Learners with previous experience can review earlier stages and focus on areas where they need improvement.
+**Stage 2 — Linux Administration**
+- File and Directory Management
+- Users and Permissions
+- Process Management
+- Package Management
+- System Administration
 
-## 🧪 Learning Environment
+**Stage 3 — Networking and Automation**
+- Linux Networking
+- Bash Scripting
+- Networking Diagnostics
 
-Recommended tools and environments include:
+**Stage 4 — Linux and Network Security**
+- Linux Security
+- Firewalls and IDS/IPS
+- Network Security
+- Log Analysis
 
-- **Linux distribution:** Ubuntu or Kali Linux.
-- **Host operating system:** Windows 11 or another supported operating system.
-- **Virtualization:** VMware Workstation or another compatible hypervisor.
-- **Code editor:** Visual Studio Code.
-- **Terminal:** Linux terminal or an appropriate virtual machine console.
+**Stage 5 — Ethical Hacking and Practical Security**
+- Penetration Testing
+- Network Enumeration
+- Vulnerability Assessment
+- Web Security
+- Digital Forensics
+- Metasploitable Labs
 
-Use a virtual machine for Linux practice when your primary computer runs Windows.
+**Stage 6 — Advanced Practice**
+- Advanced Linux
+- Capstone Project
 
-## 🛠️ Practical Learning
+Learners with previous experience can review the fundamentals and focus on the modules that match their current skill level.
 
-This course emphasizes learning by doing.
+---
 
-You will encounter:
+## 🖥️ Recommended Learning Environment
 
-- Hands-on laboratory exercises.
-- Linux command-line demonstrations.
-- Networking activities.
-- Cybersecurity challenges.
-- Bash scripting tasks.
-- System administration scenarios.
-- Knowledge assessments.
-- Practical troubleshooting activities.
+The following tools and environments are recommended:
+
+| Tool | Purpose |
+|---|---|
+| Kali Linux | Linux security learning environment |
+| Windows 11 | Host operating system |
+| VMware Workstation | Virtual machine management |
+| Visual Studio Code | Code and documentation editor |
+| Wireshark | Network traffic analysis |
+| Metasploitable | Intentionally vulnerable laboratory target |
+
+You can use other compatible Linux distributions and virtualization platforms where appropriate.
+
+For safety, keep vulnerable laboratory machines isolated from production networks.
+
+---
 
 ## 👥 Who Is This Course For?
 
-This course is suitable for:
+This course is designed for:
 
 - Complete Linux beginners.
-- Computer science students.
-- Aspiring system administrators.
+- Computer science and IT students.
+- Aspiring Linux system administrators.
+- Networking students.
 - Beginner cybersecurity learners.
 - Aspiring ethical hackers.
-- IT support and networking learners.
-- Anyone interested in understanding Linux.
+- IT support professionals.
+- Anyone interested in Linux and cybersecurity.
+
+No advanced Linux knowledge is required to begin.
+
+---
+
+## 🚀 How to Use This Repository
+
+1. Start with the main course curriculum.
+2. Study the modules in the recommended order.
+3. Read the corresponding materials in Resources.
+4. Complete the relevant exercises.
+5. Practise using the Practical-Labs sections.
+6. Record your observations and command outputs.
+7. Complete the Capstone Project.
+8. Revisit difficult topics until you understand them.
+
+**Recommended approach:** Learn the concept, practise the command, understand the result, and then apply the knowledge to a practical task.
+
+---
 
 ## 🔐 Ethical Use and Safety
 
-Cybersecurity knowledge must be used responsibly.
+This course is strictly intended for educational and authorized cybersecurity practice.
 
-All security-related practical activities must be performed only on systems you own or have explicit permission to test.
+- Test only systems you own or have explicit permission to assess.
+- Use isolated virtual machines for security laboratories.
+- Never attack public systems or unauthorized networks.
+- Avoid running unfamiliar commands with root privileges.
+- Protect credentials, private information, and sensitive data.
+- Follow applicable laws and responsible disclosure practices.
 
-Never use the knowledge gained from this course to access, damage, disrupt, or compromise unauthorized systems.
-
-Use isolated virtual machines and intentionally vulnerable laboratory environments for security experiments.
+---
 
 ## 📂 Repository Structure
 
 ```text
-linux/
+linux-for-ethical-hackers/
 │
 ├── README.md
 │
-├── Resources/
-│   ├── README.md
-│   ├── Linux-Commands/
-│   ├── Networking/
-│   ├── Cybersecurity/
-│   ├── Bash-Scripting/
-│   └── Tools-and-References/
+├── Module-01-Linux-Fundamentals/
+├── Module-02-Kali-Linux-Setup/
+├── Module-03-Linux-Filesystem/
+├── Module-04-Linux-Kernel-and-Shell/
+├── Module-05-Linux-Commands/
+├── Module-06-File-and-Directory-Management/
+├── Module-07-Users-and-Permissions/
+├── Module-08-Process-Management/
+├── Module-09-Package-Management/
+├── Module-10-Linux-Networking/
+├── Module-11-Bash-Scripting/
+├── Module-12-System-Administration/
+├── Module-13-Linux-Security/
+├── Module-14-Firewalls-and-IDS-IPS/
+├── Module-15-Network-Security/
+├── Module-16-Penetration-Testing/
+├── Module-17-Advanced-Linux/
 │
-└── Exercises/
+├── Practical-Labs/
+│   ├── Module-01-Linux-Command-Line/
+│   ├── Module-02-Filesystem-and-Permissions/
+│   ├── Module-03-Bash-Scripting/
+│   ├── Module-04-System-Administration/
+│   ├── Module-05-Networking-Diagnostics/
+│   ├── Module-06-Linux-Security/
+│   ├── Module-07-Firewalls/
+│   ├── Module-08-Log-Analysis/
+│   ├── Module-09-Wireshark/
+│   ├── Module-10-Network-Enumeration/
+│   ├── Module-11-Vulnerability-Assessment/
+│   ├── Module-12-Web-Security/
+│   ├── Module-13-Metasploitable-Labs/
+│   ├── Module-14-Digital-Forensics/
+│   └── Module-15-Capstone/
+│
+├── Exercises/
+│   ├── README.md
+│   ├── 01-Linux-Basics/
+│   ├── 02-Networking/
+│   ├── 03-Cybersecurity/
+│   ├── 04-Bash-Scripting/
+│   └── 05-System-Administration/
+│
+└── Resources/
     ├── README.md
-    ├── 01-Linux-Basics/
-    ├── 02-Networking/
-    ├── 03-Cybersecurity/
-    ├── 04-Bash-Scripting/
-    └── 05-System-Administration/
+    ├── Bash-Scripting/
+    ├── Cybersecurity/
+    ├── Linux-Commands/
+    ├── Networking/
+    └── Tools-and-References/
 ```
 
-## 🚀 How to Use This Repository
-
-1. Read this README to understand the course.
-2. Open the Resources folder.
-3. Follow the recommended learning roadmap.
-4. Complete the corresponding practical exercises.
-5. Practise in your own Linux laboratory.
-6. Review your progress and repeat challenging exercises.
+---
 
 ## 🤝 Contributions
 
-Contributions that improve the learning experience are welcome.
+Contributions that improve the quality of this educational project are welcome.
 
-You can help by:
+You can contribute by:
 
 - Correcting technical errors.
 - Improving explanations.
 - Adding useful learning resources.
 - Suggesting practical exercises.
-- Improving documentation.
+- Improving laboratory instructions.
+- Reporting broken links or documentation issues.
 
-Please ensure contributions are accurate, educational, and safe.
+All contributions should be educational, accurate, and consistent with responsible cybersecurity practices.
+
+---
 
 ## 📜 License
 
-The repository's license will be specified before public release.
+A suitable license will be added before the public release of this repository.
+
+---
 
 ## 💡 Course Philosophy
 
 > Learn. Practise. Understand. Secure.
 
-The objective is not simply to memorize Linux commands. It is to understand how Linux works, develop practical technical skills, solve problems, and apply cybersecurity knowledge responsibly.
+The purpose of this course is not simply to memorize Linux commands. It is to understand how Linux works, develop practical technical skills, solve real-world problems, and apply cybersecurity knowledge responsibly.
 
 **Start learning. Build your skills. Keep exploring.**
