@@ -330,19 +330,11 @@ All contributions should be educational, accurate, and consistent with responsib
 
 This project is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
 
-You are free to:
+You are free to share and adapt the course materials, including for commercial purposes, provided you give appropriate attribution.
 
-- **Share** — Copy and redistribute the material in any medium or format.
-- **Adapt** — Remix, transform, and build upon the material for any purpose, including commercial purposes.
+Read the [CC BY 4.0 Legal Code](https://creativecommons.org/licenses/by/4.0/legalcode).
 
-Under the following terms:
-
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-
-Read the full license here: [CC BY 4.0 Legal Code](https://creativecommons.org/licenses/by/4.0/legalcode).
-
-See the [`LICENSE`](LICENSE) file in this repository for the complete license text.
-
+See the [`LICENSE`](LICENSE) file for the complete license.
 ---
 
 ## 💡 Course Philosophy
