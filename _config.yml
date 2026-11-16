@@ -1,5 +1,10 @@
 defaults:
   - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "practical-lab"
+  - scope:
       path: "Practical-Labs"
       type: "pages"
     values:
