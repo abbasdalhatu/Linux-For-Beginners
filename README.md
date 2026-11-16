@@ -14,6 +14,37 @@ Whether you are searching for a Linux course for beginners, practical Linux tuto
 
 ---
 
+
+
+## 📚 Explore the 17 Course Modules
+
+Choose a module to view its lesson list. Each lesson opens as an individual page, so you can learn at your own pace.
+
+<style>
+.course-module-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin:22px 0 30px}.course-module-card{display:flex;flex-direction:column;gap:9px;min-height:145px;padding:19px;border:1px solid #334155;border-radius:14px;background:linear-gradient(145deg,#17233d,#101827);color:#f8fafc!important;text-decoration:none!important;transition:transform .18s ease,border-color .18s ease}.course-module-card:hover{transform:translateY(-3px);border-color:#a78bfa}.course-module-number{color:#a78bfa;font-size:.72rem;font-weight:800;letter-spacing:.12em}.course-module-card strong{font-size:1.03rem;line-height:1.35}.course-module-count{margin-top:auto;color:#a5b4fc;font-size:.86rem;font-weight:650}
+</style>
+<div class="course-module-grid">
+<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-01-Linux-Fundamentals/"><span class="course-module-number">MODULE 01</span><strong>Linux Fundamentals</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
+<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-02-Kali-Linux-Setup/"><span class="course-module-number">MODULE 02</span><strong>Kali Linux Setup</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
+<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-03-Linux-Filesystem/"><span class="course-module-number">MODULE 03</span><strong>Linux Filesystem</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
+<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-04-Linux-Kernel-and-Shell/"><span class="course-module-number">MODULE 04</span><strong>Linux Kernel and Shell</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
+<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-05-Linux-Commands/"><span class="course-module-number">MODULE 05</span><strong>Linux Commands</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
+<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-06-File-and-Directory-Management/"><span class="course-module-number">MODULE 06</span><strong>File and Directory Management</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
+<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-07-Users-and-Permissions/"><span class="course-module-number">MODULE 07</span><strong>Users and Permissions</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
+<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-08-Process-Management/"><span class="course-module-number">MODULE 08</span><strong>Process Management</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
+<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-09-Package-Management/"><span class="course-module-number">MODULE 09</span><strong>Package Management</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
+<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-10-Linux-Networking/"><span class="course-module-number">MODULE 10</span><strong>Linux Networking</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
+<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-11-Bash-Scripting/"><span class="course-module-number">MODULE 11</span><strong>Bash Scripting</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
+<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-12-System-Administration/"><span class="course-module-number">MODULE 12</span><strong>System Administration</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
+<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-13-Linux-Security/"><span class="course-module-number">MODULE 13</span><strong>Linux Security</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
+<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-14-Firewalls-and-IDS-IPS/"><span class="course-module-number">MODULE 14</span><strong>Firewalls and IDS IPS</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
+<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-15-Network-Security/"><span class="course-module-number">MODULE 15</span><strong>Network Security</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
+<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-16-Penetration-Testing/"><span class="course-module-number">MODULE 16</span><strong>Penetration Testing</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
+<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-17-Advanced-Linux/"><span class="course-module-number">MODULE 17</span><strong>Advanced Linux</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
+</div>
+
+---
+
 ## 📖 About This Course
 
 Linux is one of the most important operating systems in modern computing. It powers servers, cloud infrastructure, networking devices, development environments, and many cybersecurity tools.
