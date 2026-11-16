@@ -16,7 +16,7 @@ Whether you are searching for a Linux course for beginners, practical Linux tuto
 
 
 
-## 📚 Explore the 17 Course Modules
+## 📚 Explore the Course Modules & Practical Labs
 
 Choose a module to view its lesson list. Each lesson opens as an individual page, so you can learn at your own pace.
 
@@ -41,6 +41,7 @@ Choose a module to view its lesson list. Each lesson opens as an individual page
 <a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-15-Network-Security/"><span class="course-module-number">MODULE 15</span><strong>Network Security</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
 <a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-16-Penetration-Testing/"><span class="course-module-number">MODULE 16</span><strong>Penetration Testing</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
 <a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-17-Advanced-Linux/"><span class="course-module-number">MODULE 17</span><strong>Advanced Linux</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
+<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Practical-Labs/index.html"><span class="course-module-number">HANDS-ON TRAINING</span><strong>Practical Labs</strong><span class="course-module-count">15 lab sections <span aria-hidden="true">→</span></span></a>
 </div>
 
 ---
