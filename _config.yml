@@ -4,3 +4,88 @@ defaults:
       type: "pages"
     values:
       layout: "practical-lab"
+  - scope:
+      path: "Module-01-Linux-Fundamentals"
+      type: "pages"
+    values:
+      layout: "practical-lab"
+  - scope:
+      path: "Module-02-Kali-Linux-Setup"
+      type: "pages"
+    values:
+      layout: "practical-lab"
+  - scope:
+      path: "Module-03-Linux-Filesystem"
+      type: "pages"
+    values:
+      layout: "practical-lab"
+  - scope:
+      path: "Module-04-Linux-Kernel-and-Shell"
+      type: "pages"
+    values:
+      layout: "practical-lab"
+  - scope:
+      path: "Module-05-Linux-Commands"
+      type: "pages"
+    values:
+      layout: "practical-lab"
+  - scope:
+      path: "Module-06-File-and-Directory-Management"
+      type: "pages"
+    values:
+      layout: "practical-lab"
+  - scope:
+      path: "Module-07-Users-and-Permissions"
+      type: "pages"
+    values:
+      layout: "practical-lab"
+  - scope:
+      path: "Module-08-Process-Management"
+      type: "pages"
+    values:
+      layout: "practical-lab"
+  - scope:
+      path: "Module-09-Package-Management"
+      type: "pages"
+    values:
+      layout: "practical-lab"
+  - scope:
+      path: "Module-10-Linux-Networking"
+      type: "pages"
+    values:
+      layout: "practical-lab"
+  - scope:
+      path: "Module-11-Bash-Scripting"
+      type: "pages"
+    values:
+      layout: "practical-lab"
+  - scope:
+      path: "Module-12-System-Administration"
+      type: "pages"
+    values:
+      layout: "practical-lab"
+  - scope:
+      path: "Module-13-Linux-Security"
+      type: "pages"
+    values:
+      layout: "practical-lab"
+  - scope:
+      path: "Module-14-Firewalls-and-IDS-IPS"
+      type: "pages"
+    values:
+      layout: "practical-lab"
+  - scope:
+      path: "Module-15-Network-Security"
+      type: "pages"
+    values:
+      layout: "practical-lab"
+  - scope:
+      path: "Module-16-Penetration-Testing"
+      type: "pages"
+    values:
+      layout: "practical-lab"
+  - scope:
+      path: "Module-17-Advanced-Linux"
+      type: "pages"
+    values:
+      layout: "practical-lab"

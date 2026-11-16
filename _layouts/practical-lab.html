@@ -39,7 +39,7 @@ main{width:min(920px,calc(100% - 36px));margin:0 auto;padding:34px 0 64px}
 </head>
 <body>
 <main>
-<nav class="topbar"><a href="{{ '/Practical-Labs/' | relative_url }}">← All Practical Labs</a></nav>
+<nav class="topbar"><a href="{{ page.dir | append: '/index.html' | relative_url }}">← Back to module overview</a><a href="{{ '/' | relative_url }}">← All course modules</a></nav>
 <article class="lesson-content">{{ content }}</article>
 <footer class="footer">Linux for Ethical Hackers · Learn. Practise. Understand. Secure.</footer>
 </main>
