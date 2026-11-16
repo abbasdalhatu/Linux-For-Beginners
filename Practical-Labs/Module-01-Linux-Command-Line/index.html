@@ -1,22 +1,17 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Module 01 Linux Command Line | Practical Labs</title><style>
-:root{color-scheme:dark;--bg:#0b1020;--panel:#131c32;--line:#293653;--text:#eef2ff;--muted:#a8b3cc;--accent:#a78bfa;--cyan:#67e8f9}
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Module 01 Linux Command Line | Practical Labs</title><style>:root{color-scheme:dark;--bg:#0b1020;--panel:#131c32;--line:#293653;--text:#eef2ff;--muted:#a8b3cc;--accent:#a78bfa;--cyan:#67e8f9}
 *{box-sizing:border-box}
-body{font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;max-width:1050px;margin:0 auto;padding:32px 20px;background:radial-gradient(ellipse at top,#182448 0,#0b1020 58%);color:var(--text);line-height:1.65;min-height:100vh}
+body{margin:0 auto;max-width:1120px;padding:42px 18px 64px;background:radial-gradient(ellipse at top,#182448 0,#0b1020 58%);color:var(--text);font:16px/1.6 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;min-height:100vh}
 a{color:var(--cyan)}
-.hero{padding:clamp(22px,5vw,34px);border:1px solid var(--line);border-radius:20px;background:linear-gradient(135deg,rgba(23,35,61,.98),rgba(16,24,39,.96));box-shadow:0 18px 50px rgba(0,0,0,.18);margin-bottom:28px}
-h1{font-size:clamp(2rem,5vw,3rem);line-height:1.12;letter-spacing:-.035em;margin:0 0 12px}
-h2{font-size:1.35rem;margin:28px 0 14px}
-p{color:var(--muted)}
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,230px),1fr));gap:14px}
-.card{display:flex;flex-direction:column;gap:8px;padding:19px;border:1px solid var(--line);border-radius:15px;background:linear-gradient(145deg,#17233d,#101827);text-decoration:none;color:var(--text);transition:transform .18s ease,border-color .18s ease,box-shadow .18s ease}
-.card:hover,.card:focus-visible{border-color:var(--accent);transform:translateY(-2px);box-shadow:0 12px 28px rgba(0,0,0,.2);outline:none}
-.num{font-size:.75rem;color:var(--accent);font-weight:850;letter-spacing:.12em}
-.muted{color:var(--cyan);font-size:.92rem}
-li{margin:0;padding:10px 8px;border-bottom:1px solid var(--line)}
-li a{color:var(--text);text-decoration:none}
-li a:hover{color:var(--cyan)}
-ol{padding-left:1.5rem}
-.back{display:inline-block;margin:8px 0 22px;color:var(--cyan);text-decoration:none;font-weight:650}
+.back{display:inline-block;margin:0 0 18px;color:var(--cyan);font-weight:650;text-decoration:none}
 .back:hover{color:var(--accent)}
-@media(prefers-reduced-motion:reduce){.card{transition:none}.card:hover{transform:none}}
-</style></head><body><a class="back" href="../">← All Practical Labs</a><header class="hero"><p class="num">PRACTICAL LAB 01</p><h1>Module 01 Linux Command Line</h1><p>Work through these guided hands-on exercises in order. Complete the assessment to check your understanding.</p></header><h2>Lab exercises</h2><ol><li><a href="01-Terminal-Environment-and-Navigation.html">01 Terminal Environment and Navigation</a></li><li><a href="02-Files-and-Directory-Operations.html">02 Files and Directory Operations</a></li><li><a href="03-Text-Processing-and-Searching.html">03 Text Processing and Searching</a></li><li><a href="04-Pipes-and-Redirection.html">04 Pipes and Redirection</a></li><li><a href="05-Users-and-Environment-Variables.html">05 Users and Environment Variables</a></li><li><a href="06-Process-Inspection-and-Control.html">06 Process Inspection and Control</a></li><li><a href="07-System-Information-and-Diagnostics.html">07 System Information and Diagnostics</a></li><li><a href="08-Command-Line-Troubleshooting.html">08 Command Line Troubleshooting</a></li><li><a href="09-Real-World-Command-Line-Challenges.html">09 Real World Command Line Challenges</a></li><li><a href="10-Module-01-Practical-Assessment.html">10 Module 01 Practical Assessment</a></li></ol><p><strong>Safety:</strong> Use only systems you own or have explicit permission to test. Keep intentionally vulnerable targets isolated.</p></body></html>
+.hero{padding:clamp(24px,5vw,40px);border:1px solid var(--line);border-radius:22px;background:linear-gradient(135deg,rgba(23,35,61,.98),rgba(16,24,39,.96));box-shadow:0 18px 60px rgba(0,0,0,.2);margin-bottom:30px}
+.num{color:var(--accent);font-size:.76rem;font-weight:850;letter-spacing:.14em;text-transform:uppercase}
+h1{font-size:clamp(2rem,5vw,3rem);line-height:1.1;margin:8px 0 12px;letter-spacing:-.035em}
+h2{font-size:1.45rem;margin:28px 0 16px}
+p{color:var(--muted)}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,235px),1fr));gap:16px}
+.card{display:flex;flex-direction:column;gap:10px;min-height:150px;padding:21px;border:1px solid var(--line);border-radius:16px;background:linear-gradient(145deg,#17233d,#101827);text-decoration:none;color:var(--text);transition:transform .18s ease,border-color .18s ease,box-shadow .18s ease}
+.card:hover,.card:focus-visible{transform:translateY(-3px);border-color:var(--accent);box-shadow:0 12px 30px rgba(0,0,0,.22);outline:none}
+.card strong{font-size:1.08rem;line-height:1.35}
+.muted{margin-top:auto;color:var(--cyan);font-size:.9rem}
+@media(prefers-reduced-motion:reduce){.card{transition:none}.card:hover{transform:none}}</style></head><body><a class="back" href="../">← All Practical Labs</a><header class="hero"><p class="num">PRACTICAL LAB 01</p><h1>Module 01 Linux Command Line</h1><p>Work through these guided hands-on exercises in order. Complete the assessment to check your understanding.</p></header><h2>Lab exercises</h2><ol><li><a href="01-Terminal-Environment-and-Navigation.html">01 Terminal Environment and Navigation</a></li><li><a href="02-Files-and-Directory-Operations.html">02 Files and Directory Operations</a></li><li><a href="03-Text-Processing-and-Searching.html">03 Text Processing and Searching</a></li><li><a href="04-Pipes-and-Redirection.html">04 Pipes and Redirection</a></li><li><a href="05-Users-and-Environment-Variables.html">05 Users and Environment Variables</a></li><li><a href="06-Process-Inspection-and-Control.html">06 Process Inspection and Control</a></li><li><a href="07-System-Information-and-Diagnostics.html">07 System Information and Diagnostics</a></li><li><a href="08-Command-Line-Troubleshooting.html">08 Command Line Troubleshooting</a></li><li><a href="09-Real-World-Command-Line-Challenges.html">09 Real World Command Line Challenges</a></li><li><a href="10-Module-01-Practical-Assessment.html">10 Module 01 Practical Assessment</a></li></ol><p><strong>Safety:</strong> Use only systems you own or have explicit permission to test. Keep intentionally vulnerable targets isolated.</p></body></html>
