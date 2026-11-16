@@ -21,8 +21,57 @@ Whether you are searching for a Linux course for beginners, practical Linux tuto
 Choose a module to view its lesson list. Each lesson opens as an individual page, so you can learn at your own pace.
 
 <style>
-.course-module-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin:22px 0 30px}.course-module-card{display:flex;flex-direction:column;gap:9px;min-height:145px;padding:19px;border:1px solid #334155;border-radius:14px;background:linear-gradient(145deg,#17233d,#101827);color:#f8fafc!important;text-decoration:none!important;transition:transform .18s ease,border-color .18s ease}.course-module-card:hover{transform:translateY(-3px);border-color:#a78bfa}.course-module-number{color:#a78bfa;font-size:.72rem;font-weight:800;letter-spacing:.12em}.course-module-card strong{font-size:1.03rem;line-height:1.35}.course-module-count{margin-top:auto;color:#a5b4fc;font-size:.86rem;font-weight:650}
+.course-module-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 14px;
+  margin: 22px 0 30px;
+}
+
+.course-module-card {
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  min-height: 145px;
+  padding: 19px;
+  border: 1px solid #334155;
+  border-radius: 14px;
+  background: linear-gradient(145deg, #17233d, #101827);
+  color: #f8fafc !important;
+  text-decoration: none !important;
+}
+
+.course-module-number {
+  color: #a78bfa;
+  font-size: .72rem;
+  font-weight: 800;
+  letter-spacing: .12em;
+}
+
+.course-module-count {
+  margin-top: auto;
+  color: #a5b4fc;
+  font-size: .86rem;
+}
 </style>
+
+<div class="course-module-grid">
+
+  <a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-01-Linux-Fundamentals/index.html">
+    <span class="course-module-number">MODULE 01</span>
+    <strong>Linux Fundamentals</strong>
+    <span class="course-module-count">15 lessons →</span>
+  </a>
+
+  <!-- Put the other 16 module cards here -->
+
+  <a class="course-module-card" href="/Linux-For-Ethical-Hackers/Practical-Labs/index.html">
+    <span class="course-module-number">HANDS-ON TRAINING</span>
+    <strong>Practical Labs</strong>
+    <span class="course-module-count">15 lab sections →</span>
+  </a>
+
+</div>
 <div class="course-module-grid">
 <a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-01-Linux-Fundamentals/"><span class="course-module-number">MODULE 01</span><strong>Linux Fundamentals</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
 <a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-02-Kali-Linux-Setup/"><span class="course-module-number">MODULE 02</span><strong>Kali Linux Setup</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
