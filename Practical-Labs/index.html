@@ -1,25 +1,23 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Practical Labs | Linux for Ethical Hackers</title><style>
-:root{color-scheme:dark;--bg:#0b1020;--panel:#131c32;--line:#293653;--text:#eef2ff;--muted:#a8b3cc;--accent:#a78bfa;--cyan:#67e8f9}
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Practical Labs | Linux for Ethical Hackers</title><style>:root{color-scheme:dark;--bg:#0b1020;--panel:#131c32;--line:#293653;--text:#eef2ff;--muted:#a8b3cc;--accent:#a78bfa;--cyan:#67e8f9}
 *{box-sizing:border-box}
-body{font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;max-width:1050px;margin:0 auto;padding:32px 20px;background:radial-gradient(ellipse at top,#182448 0,#0b1020 58%);color:var(--text);line-height:1.65;min-height:100vh}
-a{color:var(--cyan)}
-.hero{padding:clamp(22px,5vw,34px);border:1px solid var(--line);border-radius:20px;background:linear-gradient(135deg,rgba(23,35,61,.98),rgba(16,24,39,.96));box-shadow:0 18px 50px rgba(0,0,0,.18);margin-bottom:28px}
-h1{font-size:clamp(2rem,5vw,3rem);line-height:1.12;letter-spacing:-.035em;margin:0 0 12px}
-h2{font-size:1.35rem;margin:28px 0 14px}
-p{color:var(--muted)}
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,230px),1fr));gap:14px}
-.card{display:flex;flex-direction:column;gap:8px;padding:19px;border:1px solid var(--line);border-radius:15px;background:linear-gradient(145deg,#17233d,#101827);text-decoration:none;color:var(--text);transition:transform .18s ease,border-color .18s ease,box-shadow .18s ease}
-.card:hover,.card:focus-visible{border-color:var(--accent);transform:translateY(-2px);box-shadow:0 12px 28px rgba(0,0,0,.2);outline:none}
-.num{font-size:.75rem;color:var(--accent);font-weight:850;letter-spacing:.12em}
-.muted{color:var(--cyan);font-size:.92rem}
-li{margin:0;padding:10px 8px;border-bottom:1px solid var(--line)}
-li a{color:var(--text);text-decoration:none}
-li a:hover{color:var(--cyan)}
-ol{padding-left:1.5rem}
-.back{display:inline-block;margin:8px 0 22px;color:var(--cyan);text-decoration:none;font-weight:650}
+body{margin:0;background:radial-gradient(ellipse at top,#182448 0,#0b1020 58%);color:var(--text);font:16px/1.6 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;min-height:100vh}
+main{width:min(1120px,calc(100% - 36px));margin:0 auto;padding:42px 0 64px}
+.back{display:inline-block;margin:0 0 18px;color:var(--cyan);font-weight:650;text-decoration:none}
 .back:hover{color:var(--accent)}
+.hero{padding:clamp(24px,5vw,40px);border:1px solid var(--line);border-radius:22px;background:linear-gradient(135deg,rgba(23,35,61,.98),rgba(16,24,39,.96));box-shadow:0 18px 60px rgba(0,0,0,.2);margin-bottom:30px}
+.eyebrow,.num{color:var(--accent);font-size:.76rem;font-weight:850;letter-spacing:.14em;text-transform:uppercase}
+h1{font-size:clamp(2rem,5vw,3rem);line-height:1.1;margin:8px 0 12px;letter-spacing:-.035em}
+.hero p{color:var(--muted);margin:8px 0}
+.hero strong{color:var(--cyan)}
+h2{font-size:1.45rem;margin:28px 0 16px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,235px),1fr));gap:16px}
+.card{display:flex;flex-direction:column;gap:10px;min-height:150px;padding:21px;border:1px solid var(--line);border-radius:16px;background:linear-gradient(145deg,#17233d,#101827);text-decoration:none;color:var(--text);transition:transform .18s ease,border-color .18s ease,box-shadow .18s ease}
+.card:hover,.card:focus-visible{transform:translateY(-3px);border-color:var(--accent);box-shadow:0 12px 30px rgba(0,0,0,.22);outline:none}
+.card strong{font-size:1.08rem;line-height:1.35}
+.muted{margin-top:auto;color:var(--cyan);font-size:.9rem}
+.note{margin-top:34px;padding:18px 20px;border:1px solid var(--line);border-radius:14px;background:rgba(19,28,50,.72);color:var(--muted)}
 @media(prefers-reduced-motion:reduce){.card{transition:none}.card:hover{transform:none}}
-</style></head><body><a class="back" href="../">← Back to Course Homepage</a><header class="hero"><p class="num">HANDS-ON LEARNING</p><h1>Practical Linux & Cybersecurity Labs</h1><p>Build real skills through guided terminal exercises, system administration tasks, networking investigations, security assessments and a final capstone.</p><p><strong>15 lab sections · 150 guided exercises</strong></p></header><h2>Choose a lab</h2><div class="grid"><a class="card" href="Module-01-Linux-Command-Line/"><span class="num">LAB 01</span><strong>Module 01 Linux Command Line</strong><span class="muted">10 guided exercises →</span></a>
+</style></head><body><main><a class="back" href="../">← Back to Course Homepage</a><header class="hero"><p class="eyebrow">HANDS-ON LEARNING</p><h1>Practical Linux & Cybersecurity Labs</h1><p>Build real skills through guided terminal exercises, system administration tasks, networking investigations, security assessments and a final capstone.</p><p><strong>15 lab sections · 150 guided exercises</strong></p></header><h2>Choose a lab</h2><div class="grid"><a class="card" href="Module-01-Linux-Command-Line/"><span class="num">LAB 01</span><strong>Module 01 Linux Command Line</strong><span class="muted">10 guided exercises →</span></a>
 <a class="card" href="Module-02-Filesystem-and-Permissions/"><span class="num">LAB 02</span><strong>Module 02 Filesystem and Permissions</strong><span class="muted">10 guided exercises →</span></a>
 <a class="card" href="Module-03-Bash-Scripting/"><span class="num">LAB 03</span><strong>Module 03 Bash Scripting</strong><span class="muted">10 guided exercises →</span></a>
 <a class="card" href="Module-04-System-Administration/"><span class="num">LAB 04</span><strong>Module 04 System Administration</strong><span class="muted">10 guided exercises →</span></a>
@@ -33,4 +31,4 @@ ol{padding-left:1.5rem}
 <a class="card" href="Module-12-Web-Security/"><span class="num">LAB 12</span><strong>Module 12 Web Security</strong><span class="muted">10 guided exercises →</span></a>
 <a class="card" href="Module-13-Metasploitable-Labs/"><span class="num">LAB 13</span><strong>Module 13 Metasploitable Labs</strong><span class="muted">10 guided exercises →</span></a>
 <a class="card" href="Module-14-Digital-Forensics/"><span class="num">LAB 14</span><strong>Module 14 Digital Forensics</strong><span class="muted">10 guided exercises →</span></a>
-<a class="card" href="Module-15-Capstone/"><span class="num">LAB 15</span><strong>Module 15 Capstone</strong><span class="muted">10 guided exercises →</span></a></div><p style="margin-top:28px">Only practise on systems you own or have explicit permission to test. Keep vulnerable lab machines isolated from production networks.</p></body></html>
+<a class="card" href="Module-15-Capstone/"><span class="num">LAB 15</span><strong>Module 15 Capstone</strong><span class="muted">10 guided exercises →</span></a></div><p class="note">Only practise on systems you own or have explicit permission to test. Keep vulnerable lab machines isolated from production networks.</p></main></body></html>
