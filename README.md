@@ -116,7 +116,9 @@ Each module has its own dedicated directory in the repository.
 
 Practical learning is an essential part of this course.
 
-The Practical-Labs directory contains 15 laboratory sections.\n\n**[🚀 Open the Practical Labs Dashboard](Practical-Labs/)** — browse all 15 lab sections and open their guided exercises.
+The Practical-Labs directory contains 15 laboratory sections.
+
+**[🚀 Open the Practical Labs Dashboard](Practical-Labs/)** — browse all 15 lab sections and open their guided exercises.
 
 | Lab | Topic |
 |---|---|
