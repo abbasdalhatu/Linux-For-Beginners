@@ -1,3 +1,6 @@
+---
+---
+
 # LESSON 02 – COMMAND SYNTAX AND STRUCTURE
 
 ## 1. Introduction
