@@ -54,7 +54,6 @@ This course teaches Linux from the ground up, with particular attention to its a
 - Computer networking.
 - Bash scripting and automation.
 - Network security.
-- Penetration-testing fundamentals.
 - System troubleshooting and security.
 
 The course combines theoretical explanations with practical demonstrations and laboratory exercises.
@@ -76,8 +75,6 @@ By completing this course, learners should be able to:
 - Perform Linux system administration.
 - Understand Linux security and hardening.
 - Understand firewalls and intrusion detection systems.
-- Perform authorized network reconnaissance and vulnerability assessments.
-- Understand penetration-testing methodologies.
 - Apply Linux knowledge to practical cybersecurity laboratories.
 
 ---
@@ -103,7 +100,6 @@ The course contains 17 structured learning modules.
 | 13 | Linux Security |
 | 14 | Firewalls and IDS/IPS |
 | 15 | Network Security |
-| 16 | Penetration Testing |
 | 17 | Advanced Linux |
 
 Each module has its own dedicated directory in the repository.
@@ -201,15 +197,7 @@ For learners starting from zero, follow this sequence:
 - Network Security
 - Log Analysis
 
-**Stage 5 — Ethical Hacking and Practical Security**
-- Penetration Testing
-- Network Enumeration
-- Vulnerability Assessment
-- Web Security
-- Digital Forensics
-- Metasploitable Labs
-
-**Stage 6 — Advanced Practice**
+**Stage 5 — Advanced Practice**
 - Advanced Linux
 - Capstone Project
 
@@ -245,7 +233,6 @@ This course is designed for:
 - Aspiring Linux system administrators.
 - Networking students.
 - Beginner cybersecurity learners.
-- Aspiring ethical hackers.
 - IT support professionals.
 - Anyone interested in Linux and cybersecurity.
 
@@ -303,7 +290,6 @@ linux-for-beginners/
 ├── Module-13-Linux-Security/
 ├── Module-14-Firewalls-and-IDS-IPS/
 ├── Module-15-Network-Security/
-├── Module-16-Penetration-Testing/
 ├── Module-17-Advanced-Linux/
 │
 ├── Practical-Labs/
