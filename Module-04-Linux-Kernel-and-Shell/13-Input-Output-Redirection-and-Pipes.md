@@ -1,3 +1,6 @@
+---
+---
+
 # Lesson 13: Input, Output, Redirection and Pipes
 
 ## 1. Introduction
