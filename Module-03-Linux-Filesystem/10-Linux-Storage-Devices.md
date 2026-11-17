@@ -1,3 +1,6 @@
+---
+---
+
 # LESSON 10: LINUX STORAGE DEVICES
 
 **Course:** Linux for Ethical Hackers  
