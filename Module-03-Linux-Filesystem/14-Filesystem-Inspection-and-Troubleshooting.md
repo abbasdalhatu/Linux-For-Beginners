@@ -1,3 +1,6 @@
+---
+---
+
 # Lesson 14: Filesystem Inspection and Troubleshooting
 
 ## 1. Introduction
