@@ -1,3 +1,6 @@
+---
+---
+
 # Lesson 07: The Linux Boot Process
 
 ## 1. Introduction
