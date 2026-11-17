@@ -1,3 +1,6 @@
+---
+---
+
 # Module 09 – Lesson 11: Understanding Package Dependencies
 
 ## 1. Learning Objectives
