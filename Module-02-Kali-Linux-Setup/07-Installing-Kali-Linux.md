@@ -1,3 +1,6 @@
+---
+---
+
 # LESSON 07: INSTALLING KALI LINUX
 
 **Module:** 02 – Kali Linux Setup  
