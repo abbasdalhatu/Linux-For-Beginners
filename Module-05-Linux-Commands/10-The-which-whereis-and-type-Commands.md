@@ -1,3 +1,6 @@
+---
+---
+
 # Lesson 10: The `which`, `whereis`, and `type` Commands
 
 ## 1. Introduction
