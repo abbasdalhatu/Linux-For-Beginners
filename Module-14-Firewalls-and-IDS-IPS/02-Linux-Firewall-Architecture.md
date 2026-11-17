@@ -1,3 +1,6 @@
+---
+---
+
 # Module 14 – Lesson 02: Linux Firewall Architecture
 
 ## 1. Introduction
