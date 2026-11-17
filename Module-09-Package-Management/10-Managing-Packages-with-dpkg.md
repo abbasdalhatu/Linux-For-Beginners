@@ -1,3 +1,6 @@
+---
+---
+
 # Module 09 – Lesson 10: Managing Packages with DPKG
 
 ## 1. Learning Objectives
