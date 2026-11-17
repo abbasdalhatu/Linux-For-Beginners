@@ -1,3 +1,6 @@
+---
+---
+
 # Lesson 14: Shell Configuration and Customization
 
 ## 1. Introduction
