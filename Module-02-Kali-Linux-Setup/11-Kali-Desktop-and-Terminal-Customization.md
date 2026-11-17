@@ -1,3 +1,6 @@
+---
+---
+
 # LESSON 11: KALI DESKTOP AND TERMINAL CUSTOMIZATION
 
 **Module:** 02 – Kali Linux Setup  
