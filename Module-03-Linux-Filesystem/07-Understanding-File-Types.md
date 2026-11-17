@@ -1,3 +1,6 @@
+---
+---
+
 # LESSON 07: UNDERSTANDING LINUX FILE TYPES
 
 **Course:** Linux for Ethical Hackers  
