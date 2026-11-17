@@ -1,3 +1,6 @@
+---
+---
+
 # Module 07 – Users and Permissions
 
 # Lesson 13: Changing Permissions with chmod – Numeric Mode
