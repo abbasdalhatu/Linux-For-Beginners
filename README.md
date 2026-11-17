@@ -1,10 +1,10 @@
-# 🐧 LINUX FOR ETHICAL HACKERS
+# 🐧 LINUX FOR BEGINNERS
 
 ### A Complete Practical Linux Course for Cybersecurity and Ethical Hacking
 
 **Learn. Practise. Understand. Secure.**
 
-**Linux for Ethical Hackers** is a free, beginner-friendly practical Linux course designed for students, aspiring cybersecurity professionals, and anyone who wants to learn Linux from the ground up.
+**Linux for Beginners** is a free, beginner-friendly practical Linux course designed for students, aspiring cybersecurity professionals, and anyone who wants to learn Linux from the ground up.
 
 This complete Linux course for cybersecurity and ethical hacking covers Linux fundamentals, essential Linux commands, filesystem management, users and permissions, networking, Bash scripting, system administration, Linux security, and penetration-testing fundamentals.
 
@@ -21,24 +21,24 @@ Whether you are searching for a Linux course for beginners, practical Linux tuto
 Choose a module to view its lesson list. Each lesson opens as an individual page, so you can learn at your own pace.
 
 <div class="course-module-grid">
-<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-01-Linux-Fundamentals/"><span class="course-module-number">MODULE 01</span><strong>Linux Fundamentals</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
-<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-02-Kali-Linux-Setup/"><span class="course-module-number">MODULE 02</span><strong>Kali Linux Setup</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
-<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-03-Linux-Filesystem/"><span class="course-module-number">MODULE 03</span><strong>Linux Filesystem</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
-<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-04-Linux-Kernel-and-Shell/"><span class="course-module-number">MODULE 04</span><strong>Linux Kernel and Shell</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
-<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-05-Linux-Commands/"><span class="course-module-number">MODULE 05</span><strong>Linux Commands</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
-<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-06-File-and-Directory-Management/"><span class="course-module-number">MODULE 06</span><strong>File and Directory Management</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
-<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-07-Users-and-Permissions/"><span class="course-module-number">MODULE 07</span><strong>Users and Permissions</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
-<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-08-Process-Management/"><span class="course-module-number">MODULE 08</span><strong>Process Management</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
-<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-09-Package-Management/"><span class="course-module-number">MODULE 09</span><strong>Package Management</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
-<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-10-Linux-Networking/"><span class="course-module-number">MODULE 10</span><strong>Linux Networking</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
-<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-11-Bash-Scripting/"><span class="course-module-number">MODULE 11</span><strong>Bash Scripting</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
-<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-12-System-Administration/"><span class="course-module-number">MODULE 12</span><strong>System Administration</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
-<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-13-Linux-Security/"><span class="course-module-number">MODULE 13</span><strong>Linux Security</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
-<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-14-Firewalls-and-IDS-IPS/"><span class="course-module-number">MODULE 14</span><strong>Firewalls and IDS IPS</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
-<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-15-Network-Security/"><span class="course-module-number">MODULE 15</span><strong>Network Security</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
-<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-16-Penetration-Testing/"><span class="course-module-number">MODULE 16</span><strong>Penetration Testing</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
-<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Module-17-Advanced-Linux/"><span class="course-module-number">MODULE 17</span><strong>Advanced Linux</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
-<a class="course-module-card" href="/Linux-For-Ethical-Hackers/Practical-Labs/index.html"><span class="course-module-number">HANDS-ON TRAINING</span><strong>Practical Labs</strong><span class="course-module-count">15 lab sections <span aria-hidden="true">→</span></span></a>
+<a class="course-module-card" href="/Linux-For-Beginners/Module-01-Linux-Fundamentals/"><span class="course-module-number">MODULE 01</span><strong>Linux Fundamentals</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
+<a class="course-module-card" href="/Linux-For-Beginners/Module-02-Kali-Linux-Setup/"><span class="course-module-number">MODULE 02</span><strong>Kali Linux Setup</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
+<a class="course-module-card" href="/Linux-For-Beginners/Module-03-Linux-Filesystem/"><span class="course-module-number">MODULE 03</span><strong>Linux Filesystem</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
+<a class="course-module-card" href="/Linux-For-Beginners/Module-04-Linux-Kernel-and-Shell/"><span class="course-module-number">MODULE 04</span><strong>Linux Kernel and Shell</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
+<a class="course-module-card" href="/Linux-For-Beginners/Module-05-Linux-Commands/"><span class="course-module-number">MODULE 05</span><strong>Linux Commands</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
+<a class="course-module-card" href="/Linux-For-Beginners/Module-06-File-and-Directory-Management/"><span class="course-module-number">MODULE 06</span><strong>File and Directory Management</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
+<a class="course-module-card" href="/Linux-For-Beginners/Module-07-Users-and-Permissions/"><span class="course-module-number">MODULE 07</span><strong>Users and Permissions</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
+<a class="course-module-card" href="/Linux-For-Beginners/Module-08-Process-Management/"><span class="course-module-number">MODULE 08</span><strong>Process Management</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
+<a class="course-module-card" href="/Linux-For-Beginners/Module-09-Package-Management/"><span class="course-module-number">MODULE 09</span><strong>Package Management</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
+<a class="course-module-card" href="/Linux-For-Beginners/Module-10-Linux-Networking/"><span class="course-module-number">MODULE 10</span><strong>Linux Networking</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
+<a class="course-module-card" href="/Linux-For-Beginners/Module-11-Bash-Scripting/"><span class="course-module-number">MODULE 11</span><strong>Bash Scripting</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
+<a class="course-module-card" href="/Linux-For-Beginners/Module-12-System-Administration/"><span class="course-module-number">MODULE 12</span><strong>System Administration</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
+<a class="course-module-card" href="/Linux-For-Beginners/Module-13-Linux-Security/"><span class="course-module-number">MODULE 13</span><strong>Linux Security</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
+<a class="course-module-card" href="/Linux-For-Beginners/Module-14-Firewalls-and-IDS-IPS/"><span class="course-module-number">MODULE 14</span><strong>Firewalls and IDS IPS</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
+<a class="course-module-card" href="/Linux-For-Beginners/Module-15-Network-Security/"><span class="course-module-number">MODULE 15</span><strong>Network Security</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
+<a class="course-module-card" href="/Linux-For-Beginners/Module-16-Penetration-Testing/"><span class="course-module-number">MODULE 16</span><strong>Penetration Testing</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
+<a class="course-module-card" href="/Linux-For-Beginners/Module-17-Advanced-Linux/"><span class="course-module-number">MODULE 17</span><strong>Advanced Linux</strong><span class="course-module-count">15 lessons <span aria-hidden="true">→</span></span></a>
+<a class="course-module-card" href="/Linux-For-Beginners/Practical-Labs/index.html"><span class="course-module-number">HANDS-ON TRAINING</span><strong>Practical Labs</strong><span class="course-module-count">15 lab sections <span aria-hidden="true">→</span></span></a>
 </div>
 
 ---
@@ -284,7 +284,7 @@ This course is strictly intended for educational and authorized cybersecurity pr
 ## 📂 Repository Structure
 
 ```text
-linux-for-ethical-hackers/
+linux-for-beginners/
 │
 ├── README.md
 │
