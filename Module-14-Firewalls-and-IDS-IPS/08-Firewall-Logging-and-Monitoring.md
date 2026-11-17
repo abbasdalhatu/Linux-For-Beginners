@@ -1,3 +1,6 @@
+---
+---
+
 # Module 14 – Lesson 08: Firewall Logging and Monitoring
 
 ## 1. Introduction to Firewall Logging
