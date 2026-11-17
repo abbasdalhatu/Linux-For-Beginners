@@ -1,3 +1,6 @@
+---
+---
+
 # Module 06 – File and Directory Management
 
 ## Lesson 11: Using `head` and `tail`
