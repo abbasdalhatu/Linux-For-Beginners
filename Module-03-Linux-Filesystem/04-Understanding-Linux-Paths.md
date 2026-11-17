@@ -1,3 +1,6 @@
+---
+---
+
 # LESSON 04: UNDERSTANDING LINUX PATHS
 
 **Course:** Linux for Ethical Hackers  
