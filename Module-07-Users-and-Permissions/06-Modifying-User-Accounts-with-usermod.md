@@ -1,3 +1,6 @@
+---
+---
+
 # Module 07 – Users and Permissions
 
 # Lesson 06: Modifying User Accounts with usermod
