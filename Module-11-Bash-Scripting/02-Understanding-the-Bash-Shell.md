@@ -1,3 +1,6 @@
+---
+---
+
 
 # Module 11 – Lesson 02: Understanding the Bash Shell
 
