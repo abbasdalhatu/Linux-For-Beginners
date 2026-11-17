@@ -1,3 +1,6 @@
+---
+---
+
 # LESSON 06: CREATING A KALI LINUX VIRTUAL MACHINE
 
 **Module:** 02 – Kali Linux Setup  
