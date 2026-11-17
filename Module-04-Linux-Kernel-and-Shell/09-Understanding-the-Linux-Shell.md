@@ -1,3 +1,6 @@
+---
+---
+
 # Lesson 09: Understanding the Linux Shell
 
 ## 1. Introduction
