@@ -1,3 +1,6 @@
+---
+---
+
 # Module 09 – Lesson 07: Removing Packages with `apt remove` and `apt purge`
 
 ## 1. Learning Objectives
