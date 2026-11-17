@@ -1,8 +1,8 @@
 
-# LINUX FOR ETHICAL HACKERS
+# LINUX FOR BEGINNERS
 ## Practical Exercises
 
-Welcome to the practical exercises section of Linux for Ethical Hackers.
+Welcome to the practical exercises section of Linux for Beginners.
 
 This section contains hands-on activities designed to help learners develop practical Linux, networking, cybersecurity, Bash scripting, and system administration skills.
 
