@@ -1,3 +1,6 @@
+---
+---
+
 # Module 09 – Lesson 13: Troubleshooting APT and Package Errors
 
 ## 1. Learning Objectives
