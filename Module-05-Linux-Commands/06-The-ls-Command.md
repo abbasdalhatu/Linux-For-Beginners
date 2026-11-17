@@ -1,3 +1,6 @@
+---
+---
+
 # Lesson 06: The `ls` Command
 
 ## 1. Introduction
