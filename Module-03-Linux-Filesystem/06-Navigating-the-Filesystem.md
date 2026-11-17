@@ -1,3 +1,6 @@
+---
+---
+
 # LESSON 06: NAVIGATING THE FILESYSTEM
 
 **Course:** Linux for Ethical Hackers  
