@@ -1,3 +1,6 @@
+---
+---
+
 # Lesson 03: Virtualization Fundamentals
 
 ## 1. Introduction to Virtualization
