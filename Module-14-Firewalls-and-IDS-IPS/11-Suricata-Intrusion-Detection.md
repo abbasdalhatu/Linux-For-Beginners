@@ -1,3 +1,6 @@
+---
+---
+
 # Module 14 – Lesson 11: Suricata Intrusion Detection
 
 ## 1. Introduction to Suricata
