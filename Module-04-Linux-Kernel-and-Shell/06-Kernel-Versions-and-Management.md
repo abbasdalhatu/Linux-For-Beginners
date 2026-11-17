@@ -1,3 +1,6 @@
+---
+---
+
 # Lesson 06: Kernel Versions and Management
 
 ## 1. Introduction
