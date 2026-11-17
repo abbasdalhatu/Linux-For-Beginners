@@ -1,3 +1,6 @@
+---
+---
+
 # Lesson 10: Bash Shell Fundamentals
 
 ## 1. Introduction
