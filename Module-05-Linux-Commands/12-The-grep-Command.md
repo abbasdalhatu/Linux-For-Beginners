@@ -1,3 +1,6 @@
+---
+---
+
 # Lesson 12: The `grep` Command
 
 ## 1. Introduction
