@@ -1,3 +1,6 @@
+---
+---
+
 # Module 01: Linux Fundamentals
 
 # Lesson 07 – Linux Kernel and Shell
