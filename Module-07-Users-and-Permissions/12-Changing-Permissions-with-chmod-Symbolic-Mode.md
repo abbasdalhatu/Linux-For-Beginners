@@ -1,3 +1,6 @@
+---
+---
+
 # Module 07 – Users and Permissions
 
 # Lesson 12: Changing Permissions with chmod – Symbolic Mode
