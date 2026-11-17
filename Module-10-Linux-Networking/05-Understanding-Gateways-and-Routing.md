@@ -1,3 +1,6 @@
+---
+---
+
 # Module 10 – Lesson 05: Understanding Gateways and Routing
 
 ## 1. Learning Objectives
