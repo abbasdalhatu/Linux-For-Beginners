@@ -1,3 +1,6 @@
+---
+---
+
 # Lesson 02: Kali Linux Architecture and Features
 
 ## 1. Introduction
