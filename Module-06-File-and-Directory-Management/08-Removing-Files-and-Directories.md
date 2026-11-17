@@ -1,3 +1,6 @@
+---
+---
+
 # Module 06 – File and Directory Management
 
 ## Lesson 08: Removing Files and Directories
