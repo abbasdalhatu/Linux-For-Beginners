@@ -1,3 +1,6 @@
+---
+---
+
 # Module 14 – Lesson 10: Snort Intrusion Detection
 
 ## 1. Introduction to Snort
