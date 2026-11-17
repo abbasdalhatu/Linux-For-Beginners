@@ -1,3 +1,6 @@
+---
+---
+
 # Lesson 02: Linux Kernel Architecture
 
 **Course:** Linux for Ethical Hackers  
