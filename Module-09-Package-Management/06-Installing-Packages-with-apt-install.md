@@ -1,3 +1,6 @@
+---
+---
+
 # Module 09 – Lesson 06: Installing Packages with `apt install`
 
 ## 1. Learning Objectives
