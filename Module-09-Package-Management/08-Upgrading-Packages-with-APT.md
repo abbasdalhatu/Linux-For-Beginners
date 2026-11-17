@@ -1,3 +1,6 @@
+---
+---
+
 # Module 09 – Lesson 08: Upgrading Packages with APT
 
 ## 1. Learning Objectives
