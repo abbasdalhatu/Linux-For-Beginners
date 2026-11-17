@@ -1,3 +1,6 @@
+---
+---
+
 # Module 09 – Lesson 05: Updating Package Lists with `apt update`
 
 ## 1. Learning Objectives
