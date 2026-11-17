@@ -1,3 +1,6 @@
+---
+---
+
 # Lesson 01: Introduction to Kali Linux
 
 ## 1. What Is Kali Linux?
