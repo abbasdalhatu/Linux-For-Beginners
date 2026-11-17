@@ -1,3 +1,6 @@
+---
+---
+
 # LESSON 13: KALI SNAPSHOTS AND BACKUP
 
 **Module:** 02 – Kali Linux Setup  
