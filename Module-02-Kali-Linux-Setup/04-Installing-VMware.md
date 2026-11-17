@@ -1,3 +1,6 @@
+---
+---
+
 # Lesson 04: Installing VMware Workstation
 
 ## 1. Introduction
