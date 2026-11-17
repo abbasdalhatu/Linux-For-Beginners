@@ -1,3 +1,6 @@
+---
+---
+
 # Lesson 11: Shell Variables and Environment
 
 ## 1. Introduction
