@@ -1,3 +1,6 @@
+---
+---
+
 # LESSON 03: ROOT DIRECTORY AND HOME DIRECTORY
 
 **Course:** Linux for Ethical Hackers  
