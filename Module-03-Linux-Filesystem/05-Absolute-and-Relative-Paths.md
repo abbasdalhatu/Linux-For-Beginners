@@ -1,3 +1,6 @@
+---
+---
+
 # LESSON 05: ABSOLUTE AND RELATIVE PATHS
 
 **Course:** Linux for Ethical Hackers  
