@@ -1,3 +1,6 @@
+---
+---
+
 # Module 06 – File and Directory Management
 
 ## Lesson 10: Viewing Files with `less` and `more`
