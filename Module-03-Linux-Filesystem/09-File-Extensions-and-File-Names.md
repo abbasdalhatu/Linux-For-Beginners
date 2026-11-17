@@ -1,3 +1,6 @@
+---
+---
+
 # LESSON 09: FILE EXTENSIONS AND FILE NAMES
 
 **Course:** Linux for Ethical Hackers  
