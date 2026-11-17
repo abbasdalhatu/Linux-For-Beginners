@@ -1,3 +1,6 @@
+---
+---
+
 # Module 09 – Lesson 09: Searching and Inspecting Packages
 
 ## 1. Learning Objectives
