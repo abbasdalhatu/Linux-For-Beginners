@@ -1,3 +1,6 @@
+---
+---
+
 # Lesson 01: Understanding the Linux Kernel
 
 **Course:** Linux for Ethical Hackers  
