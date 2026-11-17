@@ -1,3 +1,6 @@
+---
+---
+
 # LESSON 08: INITIAL KALI CONFIGURATION
 
 **Module:** 02 – Kali Linux Setup  
