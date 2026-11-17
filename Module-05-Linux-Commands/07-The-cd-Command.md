@@ -1,3 +1,6 @@
+---
+---
+
 # Lesson 07: The `cd` Command
 
 ## 1. Introduction
