@@ -1,3 +1,6 @@
+---
+---
+
 # Module 07 – Users and Permissions
 
 # Lesson 05: Managing User Passwords
