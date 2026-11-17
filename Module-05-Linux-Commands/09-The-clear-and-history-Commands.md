@@ -1,3 +1,6 @@
+---
+---
+
 # Lesson 09: The `clear` and `history` Commands
 
 ## 1. Introduction
