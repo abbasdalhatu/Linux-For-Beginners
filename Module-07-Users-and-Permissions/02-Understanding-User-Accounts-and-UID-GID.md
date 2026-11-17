@@ -1,3 +1,6 @@
+---
+---
+
 # Module 07 – Users and Permissions
 
 # Lesson 02: Understanding User Accounts, UID and GID
