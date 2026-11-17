@@ -1,3 +1,6 @@
+---
+---
+
 # LESSON 12: MOUNTING AND UNMOUNTING FILESYSTEMS
 
 **Course:** Linux for Ethical Hackers  
