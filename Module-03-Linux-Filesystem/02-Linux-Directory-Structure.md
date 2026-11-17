@@ -1,3 +1,6 @@
+---
+---
+
 # LESSON 02: LINUX DIRECTORY STRUCTURE
 
 **Course:** Linux for Ethical Hackers  
