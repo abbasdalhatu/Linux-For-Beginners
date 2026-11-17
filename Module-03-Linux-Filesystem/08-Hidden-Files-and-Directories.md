@@ -1,3 +1,6 @@
+---
+---
+
 # LESSON 08: HIDDEN FILES AND DIRECTORIES
 
 **Course:** Linux for Ethical Hackers  
