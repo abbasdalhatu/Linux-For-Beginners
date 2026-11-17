@@ -1,3 +1,6 @@
+---
+---
+
 # LESSON 11: PARTITIONS AND FILESYSTEMS
 
 **Course:** Linux for Ethical Hackers  
