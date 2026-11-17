@@ -1,3 +1,6 @@
+---
+---
+
 # Lesson 11: The `find` and `locate` Commands
 
 ## 1. Introduction
