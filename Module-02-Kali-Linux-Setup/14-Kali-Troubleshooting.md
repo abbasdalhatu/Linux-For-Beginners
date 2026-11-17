@@ -1,3 +1,6 @@
+---
+---
+
 # LESSON 14: KALI LINUX TROUBLESHOOTING
 
 **Module:** 02 – Kali Linux Setup  
