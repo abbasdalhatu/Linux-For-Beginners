@@ -1,6 +1,6 @@
 # 🐧 LINUX FOR BEGINNERS
 
-### A Complete Practical Linux Course for Cybersecurity and Ethical Hacking
+### A Complete Practical Linux Course for Cybersecurity.
 
 **Learn. Practise. Understand. Secure.**
 
